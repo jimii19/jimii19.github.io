@@ -18,5 +18,5 @@ output:
 ```{r}
 
 mtcars
-
+plot(mtcars)
 ```
