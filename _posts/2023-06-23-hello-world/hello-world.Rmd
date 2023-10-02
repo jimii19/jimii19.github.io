@@ -2,19 +2,16 @@
 ---
 title: "Hello World"
 description: |
-  Welcome to our new blog, Jimii's Blog. We hope you enjoy 
-  reading what we have to say!
+  Welcome to the Blog of Jimii. 
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Jimmy Ng 
 date: 06-23-2023
 output:
   distill::distill_article:
     self_contained: false
 ---
 
+Exploratory data analysis of the mtcars dataset.
 ```{r}
 
 mtcars
