@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Some additional details about the blog\n\nHello",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-06-24T22:06:17+08:00"
+      "last_modified": "2023-10-02T11:07:22+08:00"
     },
     {
       "path": "index.html",
       "title": "Jimii's Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-06-24T22:06:17+08:00"
+      "last_modified": "2023-10-02T11:07:28+08:00"
     }
   ],
   "collections": ["posts/posts.json"]

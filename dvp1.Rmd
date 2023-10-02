@@ -66,7 +66,7 @@ lungcapdag<-ggplot(lungcap_dag_tidy, aes(x = x, y = y, xend = xend, yend = yend)
                 theme_dag()
 ```
 
-``` {r echo = FALSE, include = TRUE, fig.width = 4, fig.height = 4, fig.align = center}
+``` {r echo = FALSE, include = TRUE, fig.width = 4, fig.height = 4, fig.align = "center"}
 lungcapdag
 ```
 The code of the above diagram is shown below:
@@ -122,5 +122,4 @@ lungcapdag<-ggplot(lungcap_dag_tidy, aes(x = x, y = y, xend = xend, yend = yend)
                 guides(color = "none", fill = "none") + 
                 theme_dag()
 ```
-
 
